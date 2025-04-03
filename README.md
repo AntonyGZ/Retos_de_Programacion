@@ -1,31 +1,60 @@
+# 🚀 Retos de Programación
+
+📌 **Descripción:**  
+Este repositorio contiene una colección de retos de programación para mejorar habilidades en diferentes lenguajes. Los desafíos varían en dificultad, desde principiante hasta avanzado.  
+
 ---
 
-## **📌 6️⃣ README para `retos-programacion`**  
-```md
-# 💡 Retos de Programación  
-📌 **Desafíos de programación para mejorar tus habilidades y lógica.**  
+## 🎯 Objetivo
 
-## 📂 Contenido  
-✅ Retos de lógica básica  
-✅ Problemas de algoritmos  
-✅ Ejercicios de optimización  
-✅ Retos de código competitivo  
+El propósito de este repositorio es ofrecer ejercicios prácticos que ayuden a desarrollar el pensamiento lógico y mejorar la capacidad de resolución de problemas en programación.  
 
-## 📌 Lenguajes incluidos  
-🔹 Python  
-🔹 JavaScript  
-🔹 C++  
-🔹 Java  
+---
 
-## 🛠️ ¿Cómo usar este repositorio?  
-1. **Clona el repositorio** en tu computadora:  
-   ```bash
-   git clone https://github.com/TU-USUARIO/retos-programacion.git
-2.	**Resuelve los retos y comparte tus soluciones.**
-3.	**Compara tu solución con las de otros desarrolladores.**
+## 📂 Estructura del Repositorio
 
-## 📢 Contribuciones
-Si tienes un reto interesante, ¡agrégalo!
-1.	**Haz un Fork del repositorio.**
-2.	**Sube un nuevo reto con su descripción y solución.**
-3.	**Crea un Pull Request con tu contribución.**
+🔹 **📂 Principiante/** → Retos básicos para quienes están empezando.  
+🔹 **📂 Intermedio/** → Ejercicios con mayor complejidad.  
+🔹 **📂 Avanzado/** → Desafíos difíciles para programadores con experiencia.  
+
+---
+
+## 🏆 Ejemplos de Retos
+
+✔️ Imprimir los primeros 10 números de la serie Fibonacci  
+✔️ Encontrar si una palabra es un palíndromo  
+✔️ Contar la cantidad de vocales en una cadena  
+✔️ Algoritmo para ordenar una lista sin usar `sort()`  
+✔️ Validar si un número es primo  
+
+---
+
+## 💻 ¿Cómo Participar?
+
+1️⃣ Explora la carpeta del nivel que prefieras.  
+2️⃣ Intenta resolver los problemas por tu cuenta.  
+3️⃣ Si deseas contribuir, envía un **Pull Request** con tu solución o un nuevo reto.  
+
+---
+
+## 🛠 Tecnologías Usadas
+
+✅ Python  
+✅ JavaScript  
+✅ C++  
+✅ Java  
+
+*(Puedes resolver los retos en cualquier lenguaje que prefieras.)*  
+
+---
+
+## 🤝 Contribuciones  
+
+¡Cualquier aporte es bienvenido! Si tienes un reto interesante, agrégalo y envía un **Pull Request**.  
+
+---
+
+## 📜 Licencia  
+Este repositorio está bajo la licencia **MIT**, lo que significa que puedes usarlo y modificarlo libremente.  
+
+📌 **¡Acepta el desafío y mejora tus habilidades de programación!** 🚀
